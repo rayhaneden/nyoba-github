@@ -2,5 +2,6 @@ Rencana Konten
 
 -video keseharian
   *jalan-jalan
+  *belajar bersama
 -video belajar
 -video ngajar
