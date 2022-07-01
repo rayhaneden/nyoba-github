@@ -2,8 +2,9 @@ Rencana Konten
 
 -video keseharian
   *jalan-jalan
-   ^jalan ke bec
+   ^ke ciwalk
+  ^jalan ke bec
    ^jalan ke ciwalk
   *belajar bersama
+  ^nugas
 -video belajar
--video ngajar
